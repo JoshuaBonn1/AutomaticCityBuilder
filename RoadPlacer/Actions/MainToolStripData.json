@@ -1,0 +1,41 @@
+{
+  "parent": "MainToolstrip",
+  "options": [
+    "Roads": {
+      "parent": "RoadsPanel",
+      "options": [
+        "RoadsSmall": {
+          "parent": "RoadsSmallPanel",
+          "options": [
+            "Basic Road",
+            "Basic Road Decoration Grass",
+            "Basic Road Decoration Trees",
+            "Gravel Road",
+            "Oneway Road",
+            "Oneway Road Decoration Grass",
+            "Oneway Road Decoration Trees"
+          ]
+        },
+        "RoadsMedium": {
+          "parent": "RoadsMediumPanel",
+          "options": [
+            "Medium Road",
+            "Medium Road Decoration Grass",
+            "Medium Road Decoration Trees"
+          ]
+        },
+        "RoadsLarge": {
+          "parent": "RoadsLargePanel",
+          "options": [
+            "Large Oneway Road",
+            "Large Oneway Road Decoration Grass",
+            "Large Oneway Road Decoration Trees",
+            "Large Road",
+            "Large Road Decoration Grass",
+            "Large Road Decoration Trees"
+          ]
+        }
+      ]
+    }
+  ]
+}
